@@ -11,3 +11,6 @@ lugin/opensearch-plugin-template-java-main/build/distributions/statistics-plugin
 
 Сделать запрос в opensearch:
 > curl.exe -X POST "http://localhost:9200/_statistics/<command>" -H "Content-Type: application/json" --data-binary "@path/to/file.json"
+
+Настроенный архив opensearch с установленным плагин:
+> https://drive.google.com/file/d/1vuqs068dIaAIcRgCoN6s_3d2btXADLsu/view?usp=drive_link
